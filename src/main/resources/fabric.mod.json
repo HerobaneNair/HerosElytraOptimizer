@@ -3,7 +3,7 @@
   "id": "heroselytraoptimizer",
   "version": "${version}",
   "name": "HerosElytraOptimizer",
-  "description": "Client-side mod for elytra optimization.",
+  "description": "It makes you stop gliding immediately once you take off elytra, rather than waiting for server to tell you that you can stop gliding now",
   "authors": [
     "HerobaneNair",
     "HerobaneNair (again)"
